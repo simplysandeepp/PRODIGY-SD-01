@@ -44,4 +44,4 @@ To make it more useful, the app checks your input against normal human body temp
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/temperature-converter-java.git
+   git clone https://github.com/simplysandeepp/PRODIGY-SD-01.git
