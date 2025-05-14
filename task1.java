@@ -161,10 +161,10 @@ public class task1 {
                         result.append("Stay warm and get well soon!");
                     } else if (celsius > 37.5) {
                         result.append(" Temperature is above normal.\n");
-                        result.append("You might have a fever. Kindly visit a healthcare provider.\n");
+                        result.append("You have a fever. Kindly visit for Medical Checkup...\n");
                         result.append("Take care and get well soon!");
                     } else {
-                        result.append("Your temperature is in the normal range. Stay healthy!");
+                        result.append("Your body temperature is in normal range. Stay healthy!");
                     }
 
                     outputArea.setText(result.toString());
